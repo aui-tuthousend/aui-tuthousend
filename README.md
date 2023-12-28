@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raihan Hafidz Muhammad</h1>
+<h1 align="center">Sup 👋, I'm Raihan Hafidz Muhammad</h1>
 <h3 align="center">I Used to grinding Logic</h3>
 <img align="right" alt="Coding" width="100" src="https://media.tenor.com/_zBNTXf_vi4AAAAi/popnemo-pop-nemo.gif">
 
