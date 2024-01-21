@@ -4,12 +4,6 @@
 
 - 🌱 I’m currently learning **Java, BETH stack, C#**
 
-- 💬 Ask me about **everything**
-
-- 📫 How to reach me **mraihan286@gmail.com**
-
-- ⚡ Fun fact **your mom is a woman**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-hafidz-raihan-3778311ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hafidz-raihan-3778311ba" height="30" width="40" /></a>
